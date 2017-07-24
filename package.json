@@ -1,0 +1,13 @@
+{
+  "name": "babel-plugin-use-lodash-es",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Matthew Fernando Garcia",
+  "license": "MIT",
+  "description": "Replace `lodash` imports with `lodash-es`.",
+  "repository": "https://github.com/wtgtybhertgeghgtwtg/babel-plugin-use-lodash-es",
+  "files": ["index.js"],
+  "engines": {
+    "node": ">=4"
+  }
+}
